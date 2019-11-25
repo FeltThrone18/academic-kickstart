@@ -29,10 +29,10 @@ education:
   courses:
   - course: M.S. in Software Engineering
     institution: San Jose State University
-    year: 2017 - 2019
+    year: 2019
     - course: B.S. in Electronics and Communication
     institution: GGSIP University
-    year: 2010 - 2014
+    year: 2014
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
@@ -53,7 +53,7 @@ social:
   link: https://www.linkedin.com/in/rahul-tiwari18/
 - icon: github
   icon_pack: fab
-  link: https://github.com/FeltThrone18
+  link: 	https://github.com/FeltThrone18
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
