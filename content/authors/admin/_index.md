@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: M.S. in Software Engineering
-    institution: San Jose State University
+    institution: San Jose State University, CA
     year: 2019
   - course: B.S. in Electronics and Communication
-    institution: GGSIP University
+    institution: GGSIP University, New Delhi, India
     year: 2014
   
 
@@ -69,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Rahul Tiwari is a student of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Rahul Tiwari is a Master Student in Software Engineering  at San Jose State University. His development and research interests include data analysis, application development, mobile development and machine learning. He is actively seeking opportunities for working as an energy researcher. 
