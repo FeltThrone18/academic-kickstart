@@ -30,7 +30,7 @@ education:
   - course: M.S. in Software Engineering
     institution: San Jose State University
     year: 2019
-    - course: B.S. in Electronics and Communication
+  - course: B.S. in Electronics and Communication
     institution: GGSIP University
     year: 2014
   - course: BSc in Artificial Intelligence
