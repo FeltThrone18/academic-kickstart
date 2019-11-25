@@ -24,6 +24,7 @@ interests:
 - Data Analysis
 - Python Development
 - Data Visualization
+- Tableau
 
 education:
   courses:
