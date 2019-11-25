@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Pune, India"
   date_start = "2014-11-14"
   date_end = "2017-06-01"
-  description = """BI Developer Analyst"""
+  description = """BI Developer/Analyst"""
 
 +++
